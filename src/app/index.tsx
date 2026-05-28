@@ -85,7 +85,7 @@ const styles = StyleSheet.create({
     flex: 1,
     padding: 24,
     justifyContent: 'center',
-    backgroundColor: '#f5f5f5'
+    backgroundColor: '#6b66d5'
   },
   titulo: {
     fontSize: 32,
@@ -97,7 +97,7 @@ const styles = StyleSheet.create({
     fontSize: 16,
     textAlign: 'center',
     marginBottom: 32,
-    color: '#666'
+    color: '#b97ad6'
   },
   input:{
     backgroundColor: '#fff',
@@ -105,10 +105,10 @@ const styles = StyleSheet.create({
     borderRadius: 8,
     marginBottom:12,
     borderWidth: 1,
-    borderColor: '#ddd'
+    borderColor: '#e4eeff'
   },
   botao: {
-    backgroundColor: '#222',
+    backgroundColor: '#ceaadd',
     padding: 15,
     borderRadius: 8,
     marginTop: 8

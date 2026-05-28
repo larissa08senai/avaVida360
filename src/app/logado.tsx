@@ -32,7 +32,7 @@ const styles = StyleSheet.create({
         flex: 1,
         padding: 24,
         justifyContent: 'center',
-        backgroundColor: '#f5f5f5'
+        backgroundColor: '#e67ce8'
     },
     titulo: {
         fontSize: 32,
@@ -41,7 +41,7 @@ const styles = StyleSheet.create({
         marginBottom: 24,
     },
     card: {
-        backgroundColor: '#fff',
+        backgroundColor: '#e9a6dd',
         padding: 24,
         borderRadius: 12,
         borderWidth: 1,
@@ -50,7 +50,7 @@ const styles = StyleSheet.create({
     },
     label: {
         fontSize: 14,
-        color: '#666',  
+        color: '#aa52e5',  
         marginBottom: 8
     },
     valor: {

@@ -82,7 +82,7 @@ const styles = StyleSheet.create({
         flex: 1,
         padding: 24,
         justifyContent: 'center',
-        backgroundColor: '#f5f5f5'
+        backgroundColor: '#e67ce8'
     },
     titulo: {
         fontSize: 32,
@@ -97,7 +97,7 @@ const styles = StyleSheet.create({
         color: '#666',
     },
     input: {
-        backgroundColor: '#fff',
+        backgroundColor: '#e8e0ff',
         padding: 14,
         borderRadius: 8,
         borderWidth: 1,
